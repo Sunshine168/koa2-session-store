@@ -1,0 +1,40 @@
+{
+  "name": "koa2-session-store",
+  "version": "1.0.0",
+  "description": "session store for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunshine168/koa2-session-store.git"
+  },
+  "keywords": [
+    "koa2",
+    "session",
+    "store"
+  ],
+  "author": "Sunner168",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sunshine168/koa2-session-store/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "koa": "^2.2.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "debug": "~2.2.0",
+    "mocha": "^3.4.2",
+    "uid2": "0.0.3"
+  },
+  "homepage": "https://github.com/Sunshine168/koa2-session-store#readme",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "engine-strict": true
+}
